@@ -51,4 +51,4 @@ Your assignment will be evaluated based on the following rubric:
 - Acceptable
 - Exceptional
 
-**This assignment is due in Week 5 (Sunday by 11:59PM CST).  Note that you have an additional week to complete this project.**
+**This assignment is due at the end of Week 4 (Sunday by 11:59PM CST).  Note that you have an additional week to complete this project.**
