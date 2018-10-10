@@ -1,4 +1,4 @@
-# Project 1- Web Application
+# Project 1 - Web Application
 
 ### Requirements for this assignment:
 Clone this repository to your computer.
@@ -20,28 +20,27 @@ git push
 ```
 ### Grading
 
-This project is worth **50 points**
+This project is worth **100 points**
 
 Your assignment will be evaluated based on the following rubric:
-- Delivered on time: 2 pts.
-- Readable (code is organized and easy to follow): 4 pts.
-- HTML is formatted correctly: 4 pts.
-- Contains at least two web pages: 4 pts.
-- Contains navigation between pages: 4 pts.
-- Data is retrieved from a web service and parsed: 4 pts.
-- Application allows (requires) user interaction: 4 pts.
-- User interface is intuitive and accessible: 4 pts.
-- Application is responsive to various devices: 4 pts.
-- Application is visually appealing: 4 pts.
-- Data display is informative: 4 pts.
-- Application functions correctly: 4 pts.
-- Application is unique: 4 pts.
+- Delivered on time: 4 pts.
+- Readable (code is organized and easy to follow): 8 pts.
+- HTML is formatted correctly: 8 pts.
+- Contains at least two web pages: 8 pts.
+- Contains navigation between pages: 8 pts.
+- Data is retrieved from a web service and parsed: 8 pts.
+- Application allows (requires) user interaction: 8 pts.
+- User interface is intuitive and accessible: 8 pts.
+- Application is responsive to various devices: 8 pts.
+- Application is visually appealing: 8 pts.
+- Data display is informative: 8 pts.
+- Application functions correctly: 8 pts.
+- Application is unique: 8 pts.
 
-Items will be graded on the following 4-point scale:
+Items will be graded on the following 8-point scale:
 
-- Unacceptable
-- Amateur
-- Acceptable
-- Exceptional
+- Novice (0-5)
+- Competent (6-7)
+- Proficient (8)
 
 **This assignment is due at the end of Week 4 (Sunday by 11:59PM CST).  Note that you have an additional week to complete this project.**
